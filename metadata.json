@@ -1,0 +1,5 @@
+{
+  "name": "Tax Reform Simulator",
+  "description": "An interactive web application to simulate the impacts of tax reform for businesses, built with React and Tailwind CSS, featuring a reddish color palette.",
+  "requestFramePermissions": []
+}
